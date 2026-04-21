@@ -34,7 +34,7 @@ This project estimates glacier motion using satellite images. It combines image 
 - `README.md` – project description  
 
 ## 📌 Note
-This project was developed for learning purposes and demonstrates basic machine learning and image processing techniques.
+This project was developed for learning purposes and demonstrates basic machine learning and image processing techniques. Thia is ongoing project, i still working on it.
 
 ## 👤 Author
 Rohit Sharma
