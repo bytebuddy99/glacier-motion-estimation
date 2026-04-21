@@ -37,5 +37,5 @@ This project estimates glacier motion using satellite images. It combines image 
 This project was developed for learning purposes and demonstrates basic machine learning and image processing techniques.
 
 ## 👤 Author
-Rohit Sharms
+Rohit Sharma
 
